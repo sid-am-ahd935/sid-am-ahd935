@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sid-am-ahd935/sid-am-ahd935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +17,17 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://sid-am-ahd935.github.io"><img width="50%" alt="Hi there, I am AMAN. I program stuff" src="https://user-images.githubusercontent.com/83830134/204081092-36912b1c-2881-4d57-90ea-75487f7bfa8c.png" /></a></p>
 
-
-I am a student pursuing engineering and developing new skills in software development.
+Learning to grow and growing to learn...
 
 ### About Me
 
-To-Do
+- Engineering Undergrad '24
+- GDSC Lead at Aliah University
+- Technical Content Writer at Codedamn
+- 2x Hacktoberfest Contributor & 1x Hacktoberfest Maintainer
+- HSoC contributor
+
+<!-- ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid-am-ahd935&show_icons=true) -->
+
+| <a href="https://github.com/sid-am-ahd935/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sid-am-ahd935&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aman's github stats" /></a> | <a href="https://github.com/sid-am-ahd935/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-am-ahd935&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
